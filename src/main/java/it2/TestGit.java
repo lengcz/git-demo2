@@ -6,6 +6,7 @@ public class TestGit {
         System.out.println("version 1");
         System.out.println("version 2");
         System.out.println("version 3 by dev");
+        System.out.println("hello by dev");
 
     }
 }
