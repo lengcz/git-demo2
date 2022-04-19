@@ -9,6 +9,6 @@ public class TestGit {
         System.out.println("hello by master");
         System.out.println("hello by dev");
         System.out.println("push test ");
-        System.out.println("ssh push test ");
+        System.out.println("ssh push test");
     }
 }
