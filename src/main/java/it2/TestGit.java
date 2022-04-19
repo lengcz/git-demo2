@@ -8,7 +8,7 @@ public class TestGit {
         System.out.println("version 3 by dev");
         System.out.println("hello by master");
         System.out.println("hello by dev");
-        System.out.println("push test");
+        System.out.println("push test ");
 
     }
 }
